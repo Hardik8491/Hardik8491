@@ -258,7 +258,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Employ_Manegement_System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Hardik8491/HoldInfo ">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=HoldInfo &theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=HoldInfo&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Hardik8491/EcommarceApp ">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=EcommarceApps&theme=tokyonight" alt="GitHub Stats" />
