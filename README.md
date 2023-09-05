@@ -260,15 +260,17 @@
 	  
 	
 	
-  <!--   	<a href="https://github.com/Hardik8491/Strees_Testing">
+<a href="https://github.com/Hardik8491/Strees_Testing">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Hardik8491/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/Hardik8491/ChatApp">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Chatapp&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Hardik8491/Codeforces-Polygon-Template">
+    	<a href="https://github.com/Hardik8491/NetFlix_Client">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+
+       <!--  	
 	<a href="https://github.com/Hardik8491/Some-Linux-Commands">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
     	</a>
