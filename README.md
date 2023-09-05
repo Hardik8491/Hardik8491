@@ -261,7 +261,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=HoldInfo&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Hardik8491/EcommarceApp ">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=EcommarceApps&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=EcommarceApp&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Hardik8491/Youtube_App-_React">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Youtube_App-_React&theme=tokyonight" alt="GitHub Stats" />
@@ -269,8 +269,8 @@
 	<a href="https://github.com/Hardik8491/Google_Search_engin">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Google_Search_engin&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Hardik8491/Eshop ">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Eshop &theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Hardik8491/Eshop">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Eshop&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Hardik8491/try">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?usernameHardik8491&repo=try&theme=tokyonight" alt="GitHub Stats" />
@@ -281,8 +281,8 @@
 	<a href="https://github.com/Hardik8491/Social_Media_APP">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Social_Media_APP&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Hardik8491/starter-react-app ">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Hardik8491/starter-react-app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=starter-react-app&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Hardik8491/CP-Templates-Snippets">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
