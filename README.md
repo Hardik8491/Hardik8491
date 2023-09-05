@@ -251,9 +251,9 @@
 	<a href="https://github.com/Hardik8491/NetFlix-India">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=NetFlix-India&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Hardik8491/django-hello-world">
+<!-- 	<a href="https://github.com/Hardik8491/django-hello-world">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=django-hello-world&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+    	</a> -->
 	<a href="https://github.com/Hardik8491/Employ_Manegement_System">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Employ_Manegement_System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
