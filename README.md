@@ -253,8 +253,8 @@
 <div>
   <p align="center">
 
-  <a href="https://github.com/Hardik8491/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/Hardik8491/Hardik8491">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Hardik8491&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	  
 	  
