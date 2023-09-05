@@ -272,8 +272,8 @@
 	<a href="https://github.com/Hardik8491/Eshop">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Eshop&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Hardik8491/try">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?usernameHardik8491&repo=try&theme=tokyonight" alt="GitHub Stats" />
+         <a href="https://github.com/Hardik8491/Bharat0509 ">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Bharat0509 &theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Hardik8491/PortFolio-HardikBhammar ">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=PortFolio-HardikBhammar &theme=tokyonight" alt="GitHub Stats" />
@@ -283,9 +283,6 @@
     	</a>
 	<a href="https://github.com/Hardik8491/starter-react-app">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=starter-react-app&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Hardik8491/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Hardik8491/Love_Bubber_450_Problem-_Seet">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik8491&repo=Love_Bubber_450_Problem-_Seet " alt="GitHub Stats" />
