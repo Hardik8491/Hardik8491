@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1Jl-r-qm32FHhTUffyIOMh2R5rcP17MaJ/view?usp=sharing">
+<img src="Blue Modern Company Slogan LinkedIn Banner (2).png">
 
 <!-- uncomment to change banner
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:4CB8C4,100:3CD3AD&height=300&section=header&text=Muhammad%20Faizan&fontSize=90&fontColor=FCFFE7" />
