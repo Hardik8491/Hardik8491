@@ -86,9 +86,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&locale=en" alt="Hardik8491" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&" alt="Hardik8491" /></p>
-
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&theme=tokyonight_duo" alt="Hardik8491" /></p>
 
 
 ## 🐍 A Snake Eating my Contributions Graph
