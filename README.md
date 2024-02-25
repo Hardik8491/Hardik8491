@@ -27,7 +27,7 @@
 <!--Social Links Badges: end-->
 
 <!--About me: start-->
-<img src="img/hi_there.png">
+<img src="hi_there.png">
 
 <p>My name is Muhammad Faizan. A passionate developer from India. My main areas of interest are web and mobile development. Right now, I'm learning Flutter. Aside from this, I also do graphic design. In my spare time, I enjoy playing chess and reading.</p>
 
