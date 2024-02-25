@@ -23,13 +23,13 @@
 <h1 align="center">Hi 👋, I'm Hardik Bhammar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **.Net and C#**
+- 🌱 I’m currently learning ** TSX , NEST.JS  AND BASH**
 
 - 👨‍💻 All of my projects are available at [https://Hardik8491.github.io/PortFolio/](https://Hardik8491.github.io/PortFolio/)
 
 - 💬 Ask me about **React , MongoDb , Redux , MERN**
 
-- 📫 How to reach me **hardikbhammar88@gmail.com**
+- 📫 How to reach me **hardikbhammar808@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vhDhYiyTdu-4ZvrFULtB3hgj83HWz8VJ/view?usp=drivesdk](https://drive.google.com/file/d/1vhDhYiyTdu-4ZvrFULtB3hgj83HWz8VJ/view?usp=drivesdk)
 
