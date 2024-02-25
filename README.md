@@ -86,9 +86,18 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&locale=en" alt="Hardik8491" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&theme=tokyonight_duo" alt="Hardik8491" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&theme=tokyonight_duo" alt="Hardik8491" /></p>
 
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Hardik8491 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik8491&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Hardik8491" height="230px"/>
+<br/>
 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  </p>
+  
 ## 🐍 A Snake Eating my Contributions Graph
 	
 	
