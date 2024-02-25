@@ -11,10 +11,10 @@
 
 <!--Social Links Badges: start-->
 
-<a href="https://github.com/mralpha786">
+<a href="https://github.com/Hardik8491">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/mralpha786">
+<a href="https://linkedin.com/in/Hardik8491">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 <a href="https://lichess.org/@/anon007">
@@ -35,7 +35,7 @@
 
 <!--Tech stack: start-->
 
-<img src="img/tech_stack.png">
+<img src="ech_stack.png">
 
 <img src="https://skillicons.dev/icons?i=java,dart,python,kotlin,bash,md,mysql,gradle,flutter,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=10" />
 
@@ -43,16 +43,16 @@
 
 <!--Statistics: start-->
 
-<img src="img/statistics.png">
+<img src="statistics.png">
 
-  <img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=mralpha786&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
-  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralpha786&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
+  <img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=Hardik8491&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
+  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik8491&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
 
 <!--Statistics: end-->
 
 <!--More Details: start-->
 
-<img src="img/more_things.png">
+<img src="more_things.png">
 </div>
 
 ### Currently I'm reading
@@ -78,5 +78,5 @@
 
 ---
 
-<img src="img/with_love.png">
+<img src="with_love.png">
 </div>
