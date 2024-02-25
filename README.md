@@ -1,5 +1,5 @@
 <div align="center">
-< src="hero_banner.svg">
+< src="/hero_banner.svg">
 
 <!-- uncomment to change banner
 < src="https://capsule-render.vercel.app/api?type=waving&&color=0:4CB8C4,100:3CD3AD&height=300&section=header&text=Muhammad%20Faizan&fontSize=90&fontColor=FCFFE7" />
