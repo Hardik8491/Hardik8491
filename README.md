@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Blue Modern Company Slogan LinkedIn Banner (2).png">
+<img src="hero.png">
 
 <!-- uncomment to change banner
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:4CB8C4,100:3CD3AD&height=300&section=header&text=Muhammad%20Faizan&fontSize=90&fontColor=FCFFE7" />
