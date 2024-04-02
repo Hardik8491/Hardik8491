@@ -1,7 +1,7 @@
 
 <a>
 <a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=HDK8491&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Hardik8491&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/018de01b-1c88-4698-b625-b3f77f8af0f7.svg)](https://wakatime.com/@018de01b-1c88-4698-b625-b3f77f8af0f7)
@@ -15,10 +15,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:4CB8C4,100:3CD3AD&height=300&section=header&text=Muhammad%20Faizan&fontSize=90&fontColor=FCFFE7" />
 -->
 <p align="center>
-<a href="https://github.com/HDK8491">
+<a href="https://github.com/Hardik8491">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/HDK8491">
+<a href="https://linkedin.com/in/Hardik8491">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 <a href="https://lichess.org/@/anon007">
@@ -34,7 +34,7 @@
 <h3 align="center"
 >
         <samp>&gt; Hey There!, I am
-                <b><a  target="_blank" href="https://HDK8491.com">Hardik Bhammar</a></b>
+                <b><a  target="_blank" href="https://Hardik8491.com">Hardik Bhammar</a></b>
         </samp>
 </h3>
 
@@ -48,7 +48,7 @@
 
 - 🌱 I’m currently learning **.Net and C#**
 
-- 👨‍💻 All of my projects are available at [https://HDK8491.github.io/PortFolio/](https://HDK8491.github.io/PortFolio/)
+- 👨‍💻 All of my projects are available at [https://Hardik8491.github.io/PortFolio/](https://Hardik8491.github.io/PortFolio/)
 
 - 💬 Ask me about **React , MongoDb , Redux , MERN**
 
@@ -86,11 +86,11 @@
 
 
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HDK8491&label=Profile%20views&color=0e75b6&style=flat" alt="HDK8491" /> </p> -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Hardik8491&label=Profile%20views&color=0e75b6&style=flat" alt="Hardik8491" /> </p> -->
 
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HDK8491" alt="HDK8491" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hardik8491" alt="Hardik8491" /></a> </p>
 
 
 
@@ -103,36 +103,36 @@
 
 
 <img src="img/statistics.png">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HDK8491&show_icons=trueshow_icons=true,prs&cache_seconds=86400&theme=midnight-purple&locale=en&layout=compact" alt="HDK8491" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik8491&show_icons=trueshow_icons=true,prs&cache_seconds=86400&theme=midnight-purple&locale=en&layout=compact" alt="Hardik8491" /></p>
 
  <p align="center">
- <a href="https://github.com/HDK8491">
+ <a href="https://github.com/Hardik8491">
  <img
- src="https://github-readme-stats.vercel.app/api?username=HDK8491&show_icons=true,prs&cache_seconds=86400&theme=midnight-purple"
+ src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true,prs&cache_seconds=86400&theme=midnight-purple"
  />
  </a>
 </p>
  
  <p align="center">
- <a href="https://github.com/HDK8491">
+ <a href="https://github.com/Hardik8491">
  <img
- src="https://github-readme-streak-stats.herokuapp.com/?user=HDK8491&show_icons=true,prs&cache_seconds=86400&theme=midnight_purple"
+ src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&show_icons=true,prs&cache_seconds=86400&theme=midnight_purple"
  />
  </a>
 </p>
  
  
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HDK8491&" alt="HDK8491" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&" alt="Hardik8491" /></p> -->
 
 <!-- <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HDK8491&theme=radical&border=7F3FBF" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&theme=radical&border=7F3FBF" alt="Saif's GitHub streak"/>
   </a>
 </p> -->
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HDK8491&theme=midnight_purple&border_color=7F3FBF&bg_color=0D1117" alt="HDK's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hardik8491&theme=midnight_purple&border_color=7F3FBF&bg_color=0D1117" alt="HDK's GitHub Contribution"/>
   </a>
 </p>
 
@@ -141,7 +141,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align = "center">
-	<img src="https://raw.githubusercontent.com/HDK8491/HDK8491/output/snake.svg" alt="Snake animation" />
+	<img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/output/snake.svg" alt="Snake animation" />
 </p>
 
 <!--More Details: end-->
