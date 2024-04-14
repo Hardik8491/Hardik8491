@@ -62,7 +62,7 @@
 
 <!--Tech stack: start-->
 
-<img src="img/tech_stack.png">
+<img src="/tech_stack.png">
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -79,7 +79,7 @@
 
 <!--More Details: start-->
 
-<img src="img/more_things.png">
+<img src="/more_things.png">
 </div>
 
 
@@ -102,7 +102,7 @@
 
 
 
-<img src="img/statistics.png">
+<img src="/statistics.png">
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik8491&show_icons=trueshow_icons=true,prs&cache_seconds=86400&theme=midnight-purple&locale=en&layout=compact" alt="Hardik8491" /></p>
 
  <p align="center">
@@ -151,5 +151,5 @@
 
 ---
 
-<img src="img/with_love.png">
+<img src="/with_love.png">
 </div>
