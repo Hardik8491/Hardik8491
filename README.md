@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hardik8491&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://wakatime.com/badge/user/018de01b-1c88-4698-b625-b3f77f8af0f7.svg" alt="WakaTime" />
 </div>
 
 <div align="center">
