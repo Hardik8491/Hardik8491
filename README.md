@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td>🌐 Portfolio</td>
-      <td><a id="portfolio-link" href="https://hardikbhammar.dev">hardik-dev.tech</a></td>
+      <td><a id="portfolio-link" href="https://hardik-dev.tech">hardik-dev.tech</a></td>
     </tr>
     <tr>
       <td>⚡ Fun fact</td>
