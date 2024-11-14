@@ -15,7 +15,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'
+        python-version: '3.12'
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -23,4 +23,15 @@ jobs:
     - name: Update README
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: python update_readme.py
+      run: |
+        python -c "import sys; print(sys.version)"
+        python update_readme.py
+    - name: Debug on failure
+      if: failure()
+      run: |
+        echo "Python version:"
+        python --version
+        echo "Contents of update_readme.py:"
+        cat update_readme.py
+        echo "Environment variables:"
+        env
