@@ -77,8 +77,8 @@ def update_readme(github_token, repo_name):
         # Update LeetCode stats
         solved, rating = get_leetcode_stats("Hardik_8491")
         if solved and rating:
-             content = content.replace('<td id="leetcode-rating">1241</td>', f'<td id="leetcode-rating">{rating}</td>')
-    content = content.replace('<td id="dsa-solved">500+</td>', f'<td id="dsa-solved">{solved}+</td>')
+            content = content.replace('<td id="leetcode-rating">1241</td>', f'<td id="leetcode-rating">{rating}</td>')
+            content = content.replace('<td id="dsa-solved">500+</td>', f'<td id="dsa-solved">{solved}+</td>')
         
         # Update GitHub stats
         repos, followers, following = get_github_stats("Hardik8491")
@@ -110,9 +110,11 @@ def update_readme(github_token, repo_name):
         # Commit changes
         repo.update_file(readme.path, f"Update README stats - {last_updated}", content, readme.sha)
         print("README updated successfully")
+        
     except Exception as e:
         print(f"Error updating README: {e}", file=sys.stderr)
         raise
+
 
 if __name__ == "__main__":
     github_token = os.environ.get("GITHUB_TOKEN")
