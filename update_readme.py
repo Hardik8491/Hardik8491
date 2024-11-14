@@ -6,12 +6,42 @@ from github import Github
 from datetime import datetime
 
 def get_leetcode_stats(username):
-    url = f"https://leetcode-stats-api.herokuapp.com/{username}"
+    # LeetCode GraphQL API endpoint
+    url = "https://leetcode.com/graphql"
+    
+    # Define the GraphQL query
+    query = """
+    query getUserProfile($username: String!) {
+      matchedUser(username: $username) {
+        username
+        profile {
+          ranking
+        }
+        submitStats {
+          acSubmissionNum {
+            difficulty
+            count
+          }
+        }
+      }
+    }
+    """
+    
+    # Variables for the query
+    variables = {"username": username}
+    
+    # Send the GraphQL request
     try:
-        response = requests.get(url)
+        response = requests.post(url, json={"query": query, "variables": variables})
         response.raise_for_status()
         data = response.json()
-        return data['totalSolved'], data['rating']
+        
+        # Extract stats from the response
+        user_data = data["data"]["matchedUser"]
+        rating = user_data["profile"]["ranking"]
+        total_solved = sum([item["count"] for item in user_data["submitStats"]["acSubmissionNum"]])
+        
+        return total_solved, rating
     except Exception as e:
         print(f"Error fetching LeetCode stats: {e}", file=sys.stderr)
         return None, None
