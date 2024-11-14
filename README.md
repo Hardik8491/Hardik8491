@@ -26,11 +26,11 @@
   <table>
     <tr>
       <td>🔭 Working on</td>
-      <td>Network programming and ML projects</td>
+      <td>Full-stack web application with AI integration</td>
     </tr>
     <tr>
       <td>🌱 Learning</td>
-      <td>Machine Learning with Python & Network Programming</td>
+      <td>Advanced Machine Learning techniques and Cloud Architecture</td>
     </tr>
     <tr>
       <td>💼 Open to</td>
@@ -42,11 +42,11 @@
     </tr>
     <tr>
       <td>🌐 Portfolio</td>
-      <td><a href="https://hardik-dev.tech">hardik-dev.tech</a></td>
+      <td><a href="https://hardikbhammar.dev">hardik-dev.tech</a></td>
     </tr>
     <tr>
       <td>⚡ Fun fact</td>
-      <td>I can't lie to others!</td>
+      <td>I can solve a Rubik's cube in under 2 minutes!</td>
     </tr>
   </table>
 </div>
@@ -73,7 +73,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik8491&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="Most Used Languages" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&theme=midnight-purple" alt="GitHub Streak" />
 </div>
@@ -167,3 +167,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/main/with_love.png" alt="Made with ❤️" style="max-width: 100%; height: auto;" />
 </div>
+
+<p align='center'>Last updated: 2024-11-14 08:13:45 UTC</p>
