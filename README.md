@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td>📫 Reach me</td>
-      <td><a href="mailto:hardikbhammar808@gmail.com">hardikbhammar808@gmail.com</a></td>
+      <td id="email-Id"><a href="mailto:hardikbhammar808@gmail.com">hardikbhammar808@gmail.com</a></td>
     </tr>
     <tr>
       <td>🌐 Portfolio</td>

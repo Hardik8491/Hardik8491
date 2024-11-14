@@ -29,19 +29,26 @@ def get_leetcode_stats(username):
     
     # Variables for the query
     variables = {"username": username}
+    headers = {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+    }
     
     # Send the GraphQL request
     try:
-        response = requests.post(url, json={"query": query, "variables": variables})
-        response.raise_for_status()
-        data = response.json()
+        response = requests.post(url, json={"query": query, "variables": variables}, headers=headers)
+            # Check if the request was successful
+        if response.status_code == 200:   
+            data = response.json()
+            user_data = data["data"]["matchedUser"]
+            rating = user_data["profile"]["ranking"]
+            total_solved = next(item['count'] for item in data['data']['matchedUser']['submitStats']['acSubmissionNum'] if item['difficulty'] == 'All')
+            return total_solved, rating
+    
+        else:
+            print("Error fetching LeetCode data.")
+            return None, None
         
-        # Extract stats from the response
-        user_data = data["data"]["matchedUser"]
-        rating = user_data["profile"]["ranking"]
-        total_solved = sum([item["count"] for item in user_data["submitStats"]["acSubmissionNum"]])
-        
-        return total_solved, rating
     except Exception as e:
         print(f"Error fetching LeetCode stats: {e}", file=sys.stderr)
         return None, None
