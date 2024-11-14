@@ -77,8 +77,8 @@ def update_readme(github_token, repo_name):
         # Update LeetCode stats
         solved, rating = get_leetcode_stats("Hardik_8491")
         if solved and rating:
-            content = content.replace("🎯 LeetCode Rating</td>\n      <td>1241", f"🎯 LeetCode Rating</td>\n      <td>{rating}")
-            content = content.replace("💻 DSA Questions Solved</td>\n      <td>500+", f"💻 DSA Questions Solved</td>\n      <td>{solved}+")
+             content = content.replace('<td id="leetcode-rating">1241</td>', f'<td id="leetcode-rating">{rating}</td>')
+    content = content.replace('<td id="dsa-solved">500+</td>', f'<td id="dsa-solved">{solved}+</td>')
         
         # Update GitHub stats
         repos, followers, following = get_github_stats("Hardik8491")
