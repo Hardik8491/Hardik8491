@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/main/hero.png" alt="Hero banner" style="max-width: 100%; height: auto;" />
 </div>
 
-<h1 align="center">👋 Hey there, I'm Hardik Bhammar</h1>
+<h1 align="center" id="greeting-title">👋 Hey there, I'm Hardik Bhammar</h1>
 
 <p align="center">
   <a href="https://github.com/Hardik8491"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -26,10 +26,10 @@
   <table>
     <tr>
       <td>🔭 Working on</td>
-      <td>Full-stack web application with AI integration</td>
+      <td id="current-project">Full-stack web application with AI integration</td>
     </tr>
     <tr>
-      <td>🌱 Learning</td>
+      <td  id="learning">🌱 Learning</td>
       <td>Advanced Machine Learning techniques and Cloud Architecture</td>
     </tr>
     <tr>
@@ -42,11 +42,11 @@
     </tr>
     <tr>
       <td>🌐 Portfolio</td>
-      <td><a href="https://hardikbhammar.dev">hardik-dev.tech</a></td>
+      <td><a id="portfolio-link" href="https://hardikbhammar.dev">hardik-dev.tech</a></td>
     </tr>
     <tr>
       <td>⚡ Fun fact</td>
-      <td>I can solve a Rubik's cube in under 2 minutes!</td>
+      <td id="fun-fact">I can solve a Rubik's cube in under 2 minutes!</td>
     </tr>
   </table>
 </div>
@@ -80,26 +80,24 @@
 
 <h2 align="center">🏆 Recent Achievements</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>🎯 LeetCode Rating</td>
-      <td>1241</td>
-    </tr>
-    <tr>
-      <td>💻 DSA Questions Solved</td>
-      <td>500+</td>
-    </tr>
-    <tr>
-      <td>🏆 Internships</td>
-      <td>Full Stack Development & IBM SkillsBuild AI Certification</td>
-    </tr>
-    <tr>
-      <td>🌟 Projects</td>
-      <td>Successfully delivered ML and full-stack projects</td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td>🎯 LeetCode Rating</td>
+    <td id="leetcode-rating">1241</td>
+  </tr>
+  <tr>
+    <td>💻 DSA Questions Solved</td>
+    <td id="dsa-solved">500+</td>
+  </tr>
+  <tr>
+    <td>🏆 Internships</td>
+    <td>Full Stack Development & IBM SkillsBuild AI Certification</td>
+  </tr>
+  <tr>
+    <td>🌟 Projects</td>
+    <td>Successfully delivered ML and full-stack projects</td>
+  </tr>
+</table>
 
 <h2 align="center">💼 Professional Experience</h2>
 
@@ -168,4 +166,4 @@
   <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/main/with_love.png" alt="Made with ❤️" style="max-width: 100%; height: auto;" />
 </div>
 
-<p align='center'>Last updated: 2024-11-14 08:13:45 UTC</p>
+<p align='center' id="last-updated">Last updated: 2024-11-14 08:13:45 UTC</p>
