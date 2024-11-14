@@ -1,9 +1,9 @@
-<!-- <div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hardik8491&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
-  <img src="/hero.png" alt="Hero banner" style="max-width: 100%; height: auto;" />
+  <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/main/hero.png" alt="Hero banner" style="max-width: 100%; height: auto;" />
 </div>
 
 <h1 align="center">👋 Hey there, I'm Hardik Bhammar</h1>
@@ -165,41 +165,5 @@
 </div>
 
 <div align="center">
-  <img src="/with_love.png" alt="Made with ❤️" style="max-width: 100%; height: auto;" />
-</div> -->
-
-
-<h2 align="center">🚀 Quick Highlights</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>🔭 Working on</td>
-      <td>Full-stack web application with AI integration</td>
-    </tr>
-    <tr>
-      <td>🌱 Learning</td>
-      <td>Advanced Machine Learning techniques and Cloud Architecture</td>
-    </tr>
-    <tr>
-      <td>💼 Open to</td>
-      <td>Collaboration on innovative ML and web projects</td>
-    </tr>
-    <tr>
-      <td>📫 Reach me</td>
-      <td><a href="mailto:hardikbhammar808@gmail.com">hardikbhammar808@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>🌐 Portfolio</td>
-      <td><a href="https://hardikbhammar.dev">hardikbhammar.dev</a></td>
-    </tr>
-    <tr>
-      <td>⚡ Fun fact</td>
-      <td>I can solve a Rubik's cube in under 2 minutes!</td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/main/with_love.png" alt="Made with ❤️" style="max-width: 100%; height: auto;" />
 </div>
-
-<!-- ... other sections ... -->
-
-<p align='center'>Last updated: 2023-11-14 13:00:58 UTC</p>
