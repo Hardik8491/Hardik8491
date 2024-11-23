@@ -73,7 +73,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik8491&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="Most Used Languages" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&theme=midnight-purple" alt="GitHub Streak" />
 </div>
