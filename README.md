@@ -73,7 +73,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik8491&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="Most Used Languages" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&theme=midnight-purple" alt="GitHub Streak" />
 </div>
@@ -84,11 +84,11 @@
 <table align="center">
   <tr>
     <td>🎯 LeetCode Rating</td>
-    <td id="leetcode-rating">146769</td>
+    <td id="leetcode-rating">136152</td>
   </tr>
   <tr>
     <td>💻 DSA Questions Solved</td>
-    <td id="dsa-solved">453+</td>
+    <td id="dsa-solved">472+</td>
   </tr>
   <tr>
     <td>🏆 Internships</td>
@@ -167,4 +167,4 @@
   <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/main/with_love.png" alt="Made with ❤️" style="max-width: 100%; height: auto;" />
 </div>
 
-<p align='center' id="last-updated">Last updated: 2024-11-14 08:13:45 UTC</p>
+<p align='center' id="last-updated">Last updated: 2024-11-25 15:56:06 UTC
