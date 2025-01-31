@@ -84,7 +84,7 @@
 <table align="center">
   <tr>
     <td>🎯 LeetCode Rating</td>
-    <td id="leetcode-rating">137836</td>
+    <td id="leetcode-rating">137960</td>
   </tr>
   <tr>
     <td>💻 DSA Questions Solved</td>
@@ -167,4 +167,4 @@
   <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/main/with_love.png" alt="Made with ❤️" style="max-width: 100%; height: auto;" />
 </div>
 
-<p align='center' id="last-updated">Last updated: 2025-01-31 00:48:53 UTC
+<p align='center' id="last-updated">Last updated: 2025-01-31 12:18:30 UTC
