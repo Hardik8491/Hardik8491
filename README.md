@@ -73,7 +73,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik8491&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="Most Used Languages" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&theme=midnight-purple" alt="GitHub Streak" />
 </div>
@@ -88,7 +88,7 @@
   </tr>
   <tr>
     <td>💻 DSA Questions Solved</td>
-    <td id="dsa-solved">517+</td>
+    <td id="dsa-solved">518+</td>
   </tr>
   <tr>
     <td>🏆 Internships</td>
@@ -167,4 +167,4 @@
   <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/main/with_love.png" alt="Made with ❤️" style="max-width: 100%; height: auto;" />
 </div>
 
-<p align='center' id="last-updated">Last updated: 2025-03-29 12:18:24 UTC
+<p align='center' id="last-updated">Last updated: 2025-03-30 00:58:06 UTC
