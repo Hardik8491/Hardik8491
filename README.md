@@ -84,11 +84,11 @@
 <table align="center">
   <tr>
     <td>🎯 LeetCode Rating</td>
-    <td id="leetcode-rating">151311</td>
+    <td id="leetcode-rating">150800</td>
   </tr>
   <tr>
     <td>💻 DSA Questions Solved</td>
-    <td id="dsa-solved">537+</td>
+    <td id="dsa-solved">539+</td>
   </tr>
   <tr>
     <td>🏆 Internships</td>
@@ -167,4 +167,4 @@
   <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/main/with_love.png" alt="Made with ❤️" style="max-width: 100%; height: auto;" />
 </div>
 
-<p align='center' id="last-updated">Last updated: 2026-01-30 01:13:14 UTC
+<p align='center' id="last-updated">Last updated: 2026-01-30 12:34:15 UTC
