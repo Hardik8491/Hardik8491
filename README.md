@@ -36,19 +36,19 @@
 <table align="center">
   <tr>
     <td><strong>Current Focus</strong></td>
-    <td><span id="current-focus">Shipping AI-enabled full-stack products with secure APIs, observability, and production-grade reliability.</span></td>
+    <td><span id="current-focus">Designing scalable web platforms that combine modern UX with intelligent automation.</span></td>
   </tr>
   <tr>
     <td><strong>Building Now</strong></td>
-    <td><span id="currently-building">LLM-powered web apps with RAG pipelines, agent workflows, vector search, and business process automation.</span></td>
+    <td><span id="currently-building">Full-stack dashboards with AI copilots, role-based access, and analytics.</span></td>
   </tr>
   <tr>
     <td><strong>Learning Next</strong></td>
-    <td><span id="learning-next">Advanced multi-agent orchestration, cloud-native MLOps, model evaluation, and inference optimization.</span></td>
+    <td><span id="learning-next">Inference optimization, latency reduction, and cost-aware LLM architecture.</span></td>
   </tr>
   <tr>
     <td><strong>Open To</strong></td>
-    <td><span id="availability">High-impact Full-Stack and GenAI roles, internships, and collaborations in product-focused teams.</span></td>
+    <td><span id="availability">Open to teams building serious AI products beyond proof-of-concept demos.</span></td>
   </tr>
   <tr>
     <td><strong>Portfolio</strong></td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td><strong>Fun Fact</strong></td>
-    <td><span id="fun-fact">I can go from problem statement to full-stack AI MVP rapidly with clean, maintainable code.</span></td>
+    <td><span id="fun-fact">I treat prompt design and API design with the same engineering discipline.</span></td>
   </tr>
 </table>
 
@@ -67,19 +67,19 @@
 <table align="center">
   <tr>
     <td><strong>AI Mission</strong></td>
-    <td><span id="ai-mission">Turn complex workflows into intelligent, user-friendly products powered by practical GenAI.</span></td>
+    <td><span id="ai-mission">Bridge product thinking and LLM capability into scalable, reliable applications.</span></td>
   </tr>
   <tr>
     <td><strong>Current Architecture Theme</strong></td>
-    <td><span id="architecture-theme">Agent-ready services with clean API contracts and retrieval-first design.</span></td>
+    <td><span id="architecture-theme">Composable microservices that integrate tools, memory, and model context.</span></td>
   </tr>
   <tr>
     <td><strong>Shipping Rhythm</strong></td>
-    <td><span id="shipping-rhythm">Rapid prototyping, measurable validation, and production hardening.</span></td>
+    <td><span id="shipping-rhythm">Build fast, test deeply, and ship with confidence.</span></td>
   </tr>
   <tr>
     <td><strong>2026 Focus Track</strong></td>
-    <td><span id="focus-track">AI copilots, internal automation tools, and data-rich product platforms.</span></td>
+    <td><span id="focus-track">Smart interfaces that combine retrieval, reasoning, and action.</span></td>
   </tr>
 </table>
 
@@ -125,23 +125,23 @@ flowchart LR
 <table align="center">
   <tr>
     <td>LeetCode Ranking</td>
-    <td id="leetcode-ranking">N/A</td>
+    <td id="leetcode-ranking">149668</td>
   </tr>
   <tr>
     <td>LeetCode Problems Solved</td>
-    <td id="leetcode-solved">N/A</td>
+    <td id="leetcode-solved">548</td>
   </tr>
   <tr>
     <td>GitHub Public Repositories</td>
-    <td id="github-repos">N/A</td>
+    <td id="github-repos">74</td>
   </tr>
   <tr>
     <td>GitHub Followers</td>
-    <td id="github-followers">N/A</td>
+    <td id="github-followers">6</td>
   </tr>
   <tr>
     <td>Total Repository Stars</td>
-    <td id="github-stars">N/A</td>
+    <td id="github-stars">40</td>
   </tr>
 </table>
 
@@ -201,4 +201,4 @@ I am open to building modern products where AI is not a gimmick but a core capab
   <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/output/snake.svg" alt="Contribution snake" />
 </p>
 
-<p align="center" id="last-updated"><i>Last updated: 2026-03-13 00:00:00 UTC</i></p>
+P26-03-13 06:59:56 UTC</i></p>
