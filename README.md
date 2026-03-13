@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td><strong>Portfolio</strong></td>
-    <td><a id="portfolio-link" href="https://hardikbhammar.dev">hardikbhammar.dev</a></td>
+    <td><a id="portfolio-link" href="https://next-gen-hardik.vercel.app/">hardik.dev</a></td>
   </tr>
   <tr>
     <td><strong>Fun Fact</strong></td>
