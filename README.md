@@ -1,170 +1,204 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hardik8491&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hardik8491&label=Profile%20Views&color=0A8FDC&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Hardik8491?label=Followers&logo=github&style=for-the-badge" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Hardik8491?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub stars" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/main/hero.png" alt="Hero banner" style="max-width: 100%; height: auto;" />
-</div>
+<h1 align="center">Hardik Bhammar</h1>
 
-<h1 align="center" id="greeting-title">👋 Hey there, I'm Hardik Bhammar</h1>
+<h3 align="center">Full-Stack + GenAI Engineer | Building Intelligent Products for 2026 and Beyond</h3>
 
 <p align="center">
-  <a href="https://github.com/Hardik8491"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/Hardik8491"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.codechef.com/users/light8491"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-  <a href="https://www.leetcode.com/Hardik_8491"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2600&pause=700&center=true&vCenter=true&width=780&lines=AI+Power+%2B+Product+Thinking+%2B+Full-Stack+Execution;From+Prototype+to+Production+with+LLMs%2C+APIs%2C+and+Cloud;Designing+Fast%2C+Scalable%2C+and+Reliable+Developer+Workflows" alt="Typing headline" />
 </p>
 
-<div align="center">
-  <h3>💻 Full Stack Developer | 🎓 B.E. Student at GEC Gandhinagar</h3>
-  <p>Passionate developer from India, specializing in web development and network programming. Currently exploring machine learning while maintaining expertise in the MERN stack and Django technologies.</p>
-</div>
+<p align="center">
+  <a href="https://github.com/Hardik8491"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/Hardik8491"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.leetcode.com/Hardik_8491"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:hardikbhammar808@gmail.com"><img src="https://img.shields.io/badge/Email-EC4D37?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<h2 align="center">🚀 Quick Highlights</h2>
+<p align="center">
+  I build complete systems where modern frontend UX, resilient backend architecture, and practical GenAI capabilities work together to create measurable product impact.
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>🔭 Working on</td>
-      <td id="current-project">Full-stack web application with AI integration</td>
-    </tr>
-    <tr>
-      <td  id="learning">🌱 Learning</td>
-      <td>Advanced Machine Learning techniques and Cloud Architecture</td>
-    </tr>
-    <tr>
-      <td>💼 Open to</td>
-      <td>Collaboration on innovative ML and web projects</td>
-    </tr>
-    <tr>
-      <td>📫 Reach me</td>
-      <td><a href="mailto:hardikbhammar808@gmail.com">hardikbhammar808@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>🌐 Portfolio</td>
-      <td><a id="portfolio-link" href="https://hardikbhammar.dev">hardik-dev.tech</a></td>
-    </tr>
-    <tr>
-      <td>⚡ Fun fact</td>
-      <td id="fun-fact">I can solve a Rubik's cube in under 2 minutes!</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Systems-RAG%20%2B%20Agents-0ea5e9?style=flat-square" alt="AI systems" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable%20Backend-22c55e?style=flat-square" alt="Scalable backend" />
+  <img src="https://img.shields.io/badge/Delivery-Production%20Focused-f59e0b?style=flat-square" alt="Production focused" />
+</p>
 
-<h2 align="center">🛠️ Technology Stack</h2>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik8491&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="Most Used Languages" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&theme=midnight-purple" alt="GitHub Streak" />
-</div>
-
-
-<h2 align="center">🏆 Recent Achievements</h2>
+## 2026 Profile Snapshot
 
 <table align="center">
   <tr>
-    <td>🎯 LeetCode Rating</td>
-    <td id="leetcode-rating">149668</td>
+    <td><strong>Current Focus</strong></td>
+    <td><span id="current-focus">Shipping AI-enabled full-stack products with secure APIs, observability, and production-grade reliability.</span></td>
   </tr>
   <tr>
-    <td>💻 DSA Questions Solved</td>
-    <td id="dsa-solved">548+</td>
+    <td><strong>Building Now</strong></td>
+    <td><span id="currently-building">LLM-powered web apps with RAG pipelines, agent workflows, vector search, and business process automation.</span></td>
   </tr>
   <tr>
-    <td>🏆 Internships</td>
-    <td>Full Stack Development & IBM SkillsBuild AI Certification</td>
+    <td><strong>Learning Next</strong></td>
+    <td><span id="learning-next">Advanced multi-agent orchestration, cloud-native MLOps, model evaluation, and inference optimization.</span></td>
   </tr>
   <tr>
-    <td>🌟 Projects</td>
-    <td>Successfully delivered ML and full-stack projects</td>
+    <td><strong>Open To</strong></td>
+    <td><span id="availability">High-impact Full-Stack and GenAI roles, internships, and collaborations in product-focused teams.</span></td>
+  </tr>
+  <tr>
+    <td><strong>Portfolio</strong></td>
+    <td><a id="portfolio-link" href="https://hardikbhammar.dev">hardikbhammar.dev</a></td>
+  </tr>
+  <tr>
+    <td><strong>Fun Fact</strong></td>
+    <td><span id="fun-fact">I can go from problem statement to full-stack AI MVP rapidly with clean, maintainable code.</span></td>
   </tr>
 </table>
 
-<h2 align="center">💼 Professional Experience</h2>
+---
 
-<div align="center">
-  <details>
-    <summary><strong>Full Stack Developer Intern | Gandhinagar, Gujarat, India (Hybrid)</strong></summary>
-    <ul>
-      <li>Developed a Full-Stack Web Application using Next.js and Express.js with role-based routing and JWT authentication</li>
-      <li>Enhanced e-commerce functionality with Stripe payment integration</li>
-      <li>Implemented Redux state management for improved data handling and user experience</li>
-      <li>Collaborated with cross-functional teams on frontend and backend development</li>
-      <li>Improved app stability and user satisfaction by 20% through QA testing and debugging</li>
-    </ul>
-  </details>
+## Next-Gen AI Impact Dashboard
 
-  <details>
-    <summary><strong>AI Intern – IBM SkillsBuild (CSRBOX) | GTU, Gujarat, India (July 29, 2024 – August 12, 2024)</strong></summary>
-    <ul>
-      <li>Completed intensive AI training through IBM SkillsBuild at Gujarat Technological University</li>
-      <li>Developed an intelligent banking chatbot using IBM Watson Assistant and NLP</li>
-      <li>Created a user-friendly GUI for enhanced chatbot interactions</li>
-      <li>Implemented advanced features including payments, reminders, and balance transfers</li>
-      <li>Gained expertise in API integration, scalability optimization, and security implementation</li>
-    </ul>
-  </details>
-</div>
+<table align="center">
+  <tr>
+    <td><strong>AI Mission</strong></td>
+    <td><span id="ai-mission">Turn complex workflows into intelligent, user-friendly products powered by practical GenAI.</span></td>
+  </tr>
+  <tr>
+    <td><strong>Current Architecture Theme</strong></td>
+    <td><span id="architecture-theme">Agent-ready services with clean API contracts and retrieval-first design.</span></td>
+  </tr>
+  <tr>
+    <td><strong>Shipping Rhythm</strong></td>
+    <td><span id="shipping-rhythm">Rapid prototyping, measurable validation, and production hardening.</span></td>
+  </tr>
+  <tr>
+    <td><strong>2026 Focus Track</strong></td>
+    <td><span id="focus-track">AI copilots, internal automation tools, and data-rich product platforms.</span></td>
+  </tr>
+</table>
 
-<h2 align="center">🌟 Featured Projects</h2>
+---
 
-<div align="center">
-  <details>
-    <summary><strong>Network Traffic Analyzer</strong></summary>
-    <ul>
-      <li>Python-based network traffic analysis tool</li>
-      <li>Real-time packet capture and analysis</li>
-      <li>Machine learning for anomaly detection</li>
-    </ul>
-  </details>
+## AI x Full-Stack Capability Map
 
-  <details>
-    <summary><strong>Buyer's Edge E-commerce Platform</strong></summary>
-    <ul>
-      <li>Full-stack e-commerce solution with Stripe integration</li>
-      <li>Role-based authentication & Redux state management</li>
-      <li>Admin dashboard for complete store management</li>
-    </ul>
-  </details>
+| Layer | What I Build | Typical Stack |
+|---|---|---|
+| AI Layer | RAG systems, prompt workflows, agent tool-calling, chatbot pipelines | Python, OpenAI APIs, Vector DB, LangChain-style patterns |
+| API Layer | Secure service architecture, auth, integrations, business logic | Node.js, Express, Django, FastAPI, JWT, REST |
+| Frontend Layer | Responsive product UIs with strong DX and performance | React, Next.js, TypeScript, state management |
+| Data Layer | Reliable persistence and schema design | MongoDB, PostgreSQL, MySQL, Redis |
+| DevOps Layer | Build, deploy, monitor, iterate quickly | Docker, GitHub Actions, AWS, observability mindset |
 
-  <details>
-    <summary><strong>StudySync Education Platform</strong></summary>
-    <ul>
-      <li>Comprehensive course management system</li>
-      <li>Student-instructor interaction platform</li>
-      <li>ML-powered content recommendations</li>
-    </ul>
-  </details>
-</div>
+---
 
-<h2 align="center">🐍 Contribution Graph</h2>
+## Tech Arsenal 2026
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,django,fastapi,mongodb,mysql,postgres,redis,docker,aws,git,github,vscode&perline=9" alt="Tech stack icons" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/main/with_love.png" alt="Made with ❤️" style="max-width: 100%; height: auto;" />
-</div>
+---
 
-<p align='center' id="last-updated">Last updated: 2026-03-13 01:14:46 UTC
+## System Thinking (How I Build)
+
+```mermaid
+flowchart LR
+  A[Product Problem] --> B[UX + Data Requirements]
+  B --> C[Frontend Experience]
+  B --> D[Backend Services]
+  D --> E[AI Layer: LLM + RAG + Tools]
+  E --> F[Evaluation + Monitoring]
+  F --> G[Iteration Loop]
+  C --> G
+```
+
+---
+
+## Performance and Coding Metrics
+
+<table align="center">
+  <tr>
+    <td>LeetCode Ranking</td>
+    <td id="leetcode-ranking">N/A</td>
+  </tr>
+  <tr>
+    <td>LeetCode Problems Solved</td>
+    <td id="leetcode-solved">N/A</td>
+  </tr>
+  <tr>
+    <td>GitHub Public Repositories</td>
+    <td id="github-repos">N/A</td>
+  </tr>
+  <tr>
+    <td>GitHub Followers</td>
+    <td id="github-followers">N/A</td>
+  </tr>
+  <tr>
+    <td>Total Repository Stars</td>
+    <td id="github-stars">N/A</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hardik8491&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik8491&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik8491&layout=compact&theme=tokyonight" alt="Most used languages" />
+</p>
+
+---
+
+## Why Teams Work With Me
+
+- End-to-end ownership: I can deliver frontend, backend, database, and AI integration in one unified workflow.
+- Product-first engineering: I balance user value, code quality, and shipping speed.
+- AI with purpose: I build practical GenAI features that improve real user tasks, not just demos.
+
+---
+
+## Engineering Principles
+
+- Build for reliability first, then optimize for speed.
+- Design APIs and prompts as products, not just implementation details.
+- Keep models observable with feedback loops, evaluation, and iteration.
+- Favor clean developer experience to accelerate team delivery.
+
+---
+
+## Experience Highlights
+
+- Full-Stack Developer Intern: Built Next.js + Express applications with role-based auth and Stripe integration.
+- AI Intern (IBM SkillsBuild): Developed NLP chatbot systems and worked on practical AI deployment patterns.
+- Delivery Mindset: Focused on reliable architecture, clean UX, and measurable product outcomes.
+
+---
+
+## Featured Builds
+
+- Network Traffic Analyzer: Real-time packet analysis with anomaly detection concepts.
+- Buyer\'s Edge: Full-stack e-commerce platform with authentication, payments, and admin controls.
+- StudySync: Education platform with recommendation-oriented features.
+
+---
+
+## 2026 Collaboration Note
+
+I am open to building modern products where AI is not a gimmick but a core capability: intelligent assistants, workflow automation, smart dashboards, and developer tools.
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hardik8491/Hardik8491/output/snake.svg" alt="Contribution snake" />
+</p>
+
+<p align="center" id="last-updated"><i>Last updated: 2026-03-13 00:00:00 UTC</i></p>
