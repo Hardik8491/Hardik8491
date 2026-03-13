@@ -2,7 +2,7 @@ import requests
 import os
 import sys
 import re
-from github import Github
+from github import Github, Auth
 from datetime import datetime
 
 
@@ -156,7 +156,13 @@ def get_total_github_stars(username):
 
 def replace_by_id(content, element_id, value):
     pattern = rf'(<[^>]+id="{re.escape(element_id)}"[^>]*>)(.*?)(</[^>]+>)'
-    return re.sub(pattern, rf"\1{value}\3", content, flags=re.DOTALL)
+
+    # Use a callable replacement to avoid backreference parsing issues
+    # when value begins with digits (e.g., "6" interpreted as group reference).
+    def _replacer(match):
+        return f"{match.group(1)}{value}{match.group(3)}"
+
+    return re.sub(pattern, _replacer, content, flags=re.DOTALL)
 
 
 def get_rotation_text(field_name, now):
@@ -171,7 +177,7 @@ def get_rotation_text(field_name, now):
 
 def update_readme(github_token, repo_name):
     try:
-        g = Github(github_token)
+        g = Github(auth=Auth.Token(github_token))
         repo = g.get_repo(repo_name)
         readme = repo.get_contents("README.md")
         content = readme.decoded_content.decode()
