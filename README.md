@@ -36,19 +36,19 @@
 <table align="center">
   <tr>
     <td><strong>Current Focus</strong></td>
-    <td><span id="current-focus">Designing scalable web platforms that combine modern UX with intelligent automation.</span></td>
+    <td><span id="current-focus">Engineering reliable backend systems that power LLM-driven product experiences.</span></td>
   </tr>
   <tr>
     <td><strong>Building Now</strong></td>
-    <td><span id="currently-building">Full-stack dashboards with AI copilots, role-based access, and analytics.</span></td>
+    <td><span id="currently-building">Intelligent assistants that connect product logic, knowledge bases, and user actions.</span></td>
   </tr>
   <tr>
     <td><strong>Learning Next</strong></td>
-    <td><span id="learning-next">Inference optimization, latency reduction, and cost-aware LLM architecture.</span></td>
+    <td><span id="learning-next">Evaluation frameworks for quality, safety, and grounded AI responses.</span></td>
   </tr>
   <tr>
     <td><strong>Open To</strong></td>
-    <td><span id="availability">Open to teams building serious AI products beyond proof-of-concept demos.</span></td>
+    <td><span id="availability">Available for projects where end-to-end ownership and execution speed matter.</span></td>
   </tr>
   <tr>
     <td><strong>Portfolio</strong></td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td><strong>Fun Fact</strong></td>
-    <td><span id="fun-fact">I treat prompt design and API design with the same engineering discipline.</span></td>
+    <td><span id="fun-fact">I optimize for both shipping speed and long-term maintainability.</span></td>
   </tr>
 </table>
 
@@ -67,19 +67,19 @@
 <table align="center">
   <tr>
     <td><strong>AI Mission</strong></td>
-    <td><span id="ai-mission">Bridge product thinking and LLM capability into scalable, reliable applications.</span></td>
+    <td><span id="ai-mission">Build assistive systems that help users decide faster and execute better.</span></td>
   </tr>
   <tr>
     <td><strong>Current Architecture Theme</strong></td>
-    <td><span id="architecture-theme">Composable microservices that integrate tools, memory, and model context.</span></td>
+    <td><span id="architecture-theme">Scalable service boundaries for rapid iteration across AI and product teams.</span></td>
   </tr>
   <tr>
     <td><strong>Shipping Rhythm</strong></td>
-    <td><span id="shipping-rhythm">Build fast, test deeply, and ship with confidence.</span></td>
+    <td><span id="shipping-rhythm">Prototype quickly, evaluate outcomes, then scale what works.</span></td>
   </tr>
   <tr>
     <td><strong>2026 Focus Track</strong></td>
-    <td><span id="focus-track">Smart interfaces that combine retrieval, reasoning, and action.</span></td>
+    <td><span id="focus-track">Full-stack AI systems focused on measurable outcomes in production.</span></td>
   </tr>
 </table>
 
@@ -133,15 +133,15 @@ flowchart LR
   </tr>
   <tr>
     <td>GitHub Public Repositories</td>
-    <td id="github-repos">N/A</td>
+    <td id="github-repos">74</td>
   </tr>
   <tr>
     <td>GitHub Followers</td>
-    <td id="github-followers">N/A</td>
+    <td id="github-followers">6</td>
   </tr>
   <tr>
     <td>Total Repository Stars</td>
-    <td id="github-stars">N/A</td>
+    <td id="github-stars">40</td>
   </tr>
 </table>
 
