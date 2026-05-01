@@ -125,7 +125,7 @@ flowchart LR
 <table align="center">
   <tr>
     <td>LeetCode Ranking</td>
-    <td id="leetcode-ranking">155043</td>
+    <td id="leetcode-ranking">155132</td>
   </tr>
   <tr>
     <td>LeetCode Problems Solved</td>
@@ -133,7 +133,7 @@ flowchart LR
   </tr>
   <tr>
     <td>GitHub Public Repositories</td>
-    <td id="github-repos">74</td>
+    <td id="github-repos">75</td>
   </tr>
   <tr>
     <td>GitHub Followers</td>
