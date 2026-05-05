@@ -125,7 +125,7 @@ flowchart LR
 <table align="center">
   <tr>
     <td>LeetCode Ranking</td>
-    <td id="leetcode-ranking">155416</td>
+    <td id="leetcode-ranking">155492</td>
   </tr>
   <tr>
     <td>LeetCode Problems Solved</td>
