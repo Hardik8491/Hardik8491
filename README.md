@@ -125,11 +125,11 @@ flowchart LR
 <table align="center">
   <tr>
     <td>LeetCode Ranking</td>
-    <td id="leetcode-ranking">155492</td>
+    <td id="leetcode-ranking">N/A</td>
   </tr>
   <tr>
     <td>LeetCode Problems Solved</td>
-    <td id="leetcode-solved">548</td>
+    <td id="leetcode-solved">N/A</td>
   </tr>
   <tr>
     <td>GitHub Public Repositories</td>
