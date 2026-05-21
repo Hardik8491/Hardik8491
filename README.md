@@ -133,7 +133,7 @@ flowchart LR
   </tr>
   <tr>
     <td>GitHub Public Repositories</td>
-    <td id="github-repos">75</td>
+    <td id="github-repos">76</td>
   </tr>
   <tr>
     <td>GitHub Followers</td>
