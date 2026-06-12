@@ -141,7 +141,7 @@ flowchart LR
   </tr>
   <tr>
     <td>Total Repository Stars</td>
-    <td id="github-stars">N/A</td>
+    <td id="github-stars">40</td>
   </tr>
 </table>
 
