@@ -36,19 +36,19 @@
 <table align="center">
   <tr>
     <td><strong>Current Focus</strong></td>
-    <td><span id="current-focus">Building production-ready GenAI workflows that create real user and business value.</span></td>
+    <td><span id="current-focus">Designing scalable web platforms that combine modern UX with intelligent automation.</span></td>
   </tr>
   <tr>
     <td><strong>Building Now</strong></td>
-    <td><span id="currently-building">Agent-enabled tools that call APIs, automate workflows, and improve productivity.</span></td>
+    <td><span id="currently-building">Full-stack dashboards with AI copilots, role-based access, and analytics.</span></td>
   </tr>
   <tr>
     <td><strong>Learning Next</strong></td>
-    <td><span id="learning-next">Cloud-native MLOps pipelines for model lifecycle and deployment reliability.</span></td>
+    <td><span id="learning-next">Inference optimization, latency reduction, and cost-aware LLM architecture.</span></td>
   </tr>
   <tr>
     <td><strong>Open To</strong></td>
-    <td><span id="availability">Open for internships, freelance builds, and product-focused collaborations.</span></td>
+    <td><span id="availability">Open to teams building serious AI products beyond proof-of-concept demos.</span></td>
   </tr>
   <tr>
     <td><strong>Portfolio</strong></td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td><strong>Fun Fact</strong></td>
-    <td><span id="fun-fact">I enjoy turning complex AI concepts into simple user experiences.</span></td>
+    <td><span id="fun-fact">I treat prompt design and API design with the same engineering discipline.</span></td>
   </tr>
 </table>
 
@@ -67,19 +67,19 @@
 <table align="center">
   <tr>
     <td><strong>AI Mission</strong></td>
-    <td><span id="ai-mission">Use AI to remove friction in real workflows, not just generate flashy demos.</span></td>
+    <td><span id="ai-mission">Bridge product thinking and LLM capability into scalable, reliable applications.</span></td>
   </tr>
   <tr>
     <td><strong>Current Architecture Theme</strong></td>
-    <td><span id="architecture-theme">Event-aware backend architecture with modular AI inference layers.</span></td>
+    <td><span id="architecture-theme">Composable microservices that integrate tools, memory, and model context.</span></td>
   </tr>
   <tr>
     <td><strong>Shipping Rhythm</strong></td>
-    <td><span id="shipping-rhythm">Small release cycles with telemetry-driven improvements.</span></td>
+    <td><span id="shipping-rhythm">Build fast, test deeply, and ship with confidence.</span></td>
   </tr>
   <tr>
     <td><strong>2026 Focus Track</strong></td>
-    <td><span id="focus-track">LLM-powered workflow assistants for business and developer productivity.</span></td>
+    <td><span id="focus-track">Smart interfaces that combine retrieval, reasoning, and action.</span></td>
   </tr>
 </table>
 
