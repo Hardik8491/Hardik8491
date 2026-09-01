@@ -36,19 +36,19 @@
 <table align="center">
   <tr>
     <td><strong>Current Focus</strong></td>
-    <td><span id="current-focus">Engineering reliable backend systems that power LLM-driven product experiences.</span></td>
+    <td><span id="current-focus">Shipping AI-native full-stack products with secure APIs and strong observability.</span></td>
   </tr>
   <tr>
     <td><strong>Building Now</strong></td>
-    <td><span id="currently-building">Intelligent assistants that connect product logic, knowledge bases, and user actions.</span></td>
+    <td><span id="currently-building">RAG applications with vector search, caching, and evaluation-driven iteration.</span></td>
   </tr>
   <tr>
     <td><strong>Learning Next</strong></td>
-    <td><span id="learning-next">Evaluation frameworks for quality, safety, and grounded AI responses.</span></td>
+    <td><span id="learning-next">Multi-agent orchestration patterns and robust tool-routing strategies.</span></td>
   </tr>
   <tr>
     <td><strong>Open To</strong></td>
-    <td><span id="availability">Available for projects where end-to-end ownership and execution speed matter.</span></td>
+    <td><span id="availability">Open to high-impact Full-Stack and GenAI engineering opportunities.</span></td>
   </tr>
   <tr>
     <td><strong>Portfolio</strong></td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td><strong>Fun Fact</strong></td>
-    <td><span id="fun-fact">I optimize for both shipping speed and long-term maintainability.</span></td>
+    <td><span id="fun-fact">I can move from idea to production MVP across frontend, backend, and AI layers.</span></td>
   </tr>
 </table>
 
@@ -67,19 +67,19 @@
 <table align="center">
   <tr>
     <td><strong>AI Mission</strong></td>
-    <td><span id="ai-mission">Build assistive systems that help users decide faster and execute better.</span></td>
+    <td><span id="ai-mission">Turn complex workflows into intelligent, user-friendly products powered by practical GenAI.</span></td>
   </tr>
   <tr>
     <td><strong>Current Architecture Theme</strong></td>
-    <td><span id="architecture-theme">Scalable service boundaries for rapid iteration across AI and product teams.</span></td>
+    <td><span id="architecture-theme">Agent-ready services with clean API contracts and retrieval-first design.</span></td>
   </tr>
   <tr>
     <td><strong>Shipping Rhythm</strong></td>
-    <td><span id="shipping-rhythm">Prototype quickly, evaluate outcomes, then scale what works.</span></td>
+    <td><span id="shipping-rhythm">Rapid prototyping, measurable validation, and production hardening.</span></td>
   </tr>
   <tr>
     <td><strong>2026 Focus Track</strong></td>
-    <td><span id="focus-track">Full-stack AI systems focused on measurable outcomes in production.</span></td>
+    <td><span id="focus-track">AI copilots, internal automation tools, and data-rich product platforms.</span></td>
   </tr>
 </table>
 
