@@ -137,7 +137,7 @@ flowchart LR
   </tr>
   <tr>
     <td>GitHub Followers</td>
-    <td id="github-followers">8</td>
+    <td id="github-followers">9</td>
   </tr>
   <tr>
     <td>Total Repository Stars</td>
